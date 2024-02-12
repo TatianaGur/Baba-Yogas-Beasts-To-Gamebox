@@ -1,3 +1,5 @@
+Гурина Татьяна Викторовна
+Курс Skillbox "Unity-разработчик игр с нуля".
 AdoptAndControl.
 BabaYogasBeasts.
 
